@@ -25,18 +25,8 @@ HOW TO EXPLORE DATA
 
 SECTION 1.1 - ANALYZING CATEGORICAL DATA
 ----------------------------------------
-<table>
-  <tr>
-    <td>One</td>
-    <td>Two</td>
-  </tr>
-  <tr>
-    <td colspan="2">Three</td>
-  </tr>
-</table>
-| Frequency Table | Relative Frequency Table |
-| --- | --- |
 
+Frequency Table | Relative Frequency Table
 | Format | Count of Stations | Format | Percent of Stations |
 | --- | --- | --- | --- |
 | Adult Contemp. | 1556 | Adult Contemp. | 11.2 |
@@ -53,14 +43,14 @@ SECTION 1.1 - ANALYZING CATEGORICAL DATA
 
 
 In this case:
-Individuals = radio stations
-Variable = kind of programming that each station broadcasts
-Frequency Table = displays counts (frequencies) of stations in each format category
-Relative Frequency Table = shows percentages (relative frequencies) of stations in each format category
-Check for consistency. Counts should add up to 13838. Percents should add up to 100%.
-In this case, total adds up to 99.9%. This is called roundoff error.
-INSERT BAR GRAPHS AND PIE CHARTS HERE - 
-Bar graphs = more flexible than pie charts, can compare any set of quantities that are measured in the same units
+- Individuals = radio stations
+- Variable = kind of programming that each station broadcasts
+- **Frequency Table** = displays counts (frequencies) of stations in each format category
+- **Relative Frequency** Table = shows percentages (relative frequencies) of stations in each format category
+- Check for consistency. Counts should add up to 13838. Percents should add up to 100%.
+- In this case, total adds up to 99.9%. This is called *roundoff error*.
+- INSERT BAR GRAPHS AND PIE CHARTS HERE - 
+- Bar graphs = more flexible than pie charts, can compare any set of quantities that are measured in the same units
 
 
 YOUNG ADULTS BY GENDER AND CHANCE OF GETTING RICH
