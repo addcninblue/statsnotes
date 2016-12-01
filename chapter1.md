@@ -33,44 +33,9 @@ SECTION 1.1 - ANALYZING CATEGORICAL DATA
   <tr>
     <td colspan="2">Three</td>
   </tr>
-</table>| Frequency Table | Relative Frequency Table |
+</table>
+| Frequency Table | Relative Frequency Table |
 | --- | --- |
-
-<table>
-Frequency Table
-Relative Frequency Table
-Format
-Count of Stations
-Format
-Percent of Stations
-Adult Contemp.
-1556
-Adult Contemp.
-11.2
-Adult standards
-1196
-Adult standards
-8.6
-Contemp. hit
-569
-Contemp. hit
-4.1
-Country
-2066
-Country
-14.9
-News/Talk/Info
-2179
-News/Talk/Info
-15.7
-Oldies
-1060
-Oldies
-7.7
-Religious
-2014
-Religious
-14.6
 
 | Format | Count of Stations | Format | Percent of Stations |
 | --- | --- | --- | --- |
