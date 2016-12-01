@@ -27,6 +27,7 @@ SECTION 1.1 - ANALYZING CATEGORICAL DATA
 ----------------------------------------
 
 Frequency Table | Relative Frequency Table
+
 | Format | Count of Stations | Format | Percent of Stations |
 | --- | --- | --- | --- |
 | Adult Contemp. | 1556 | Adult Contemp. | 11.2 |
